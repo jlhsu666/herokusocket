@@ -1,0 +1,26 @@
+{
+  "name": "herokusocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlhsu666/herokusocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlhsu666/herokusocket/issues"
+  },
+  "homepage": "https://github.com/jlhsu666/herokusocket#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.5",
+    "express": "^4.17.1",
+    "utf-8-validate": "^5.0.7",
+    "ws": "^8.3.0"
+  }
+}
