@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/jlhsu666/herokusocket/issues"
   },
+  "engines": {
+    "node": "14.18.1"
+  },
   "homepage": "https://github.com/jlhsu666/herokusocket#readme",
   "dependencies": {
     "express": "^4.17.1",
